@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "mediaCapture": "media-capture-fc204",
+    "default": "media-capture-fc204"
+  }
+}
