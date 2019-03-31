@@ -5,6 +5,7 @@ const MediaStyled = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10px 0;
 `;
 
 MediaStyled.VideoElement = styled.video`
